@@ -1,0 +1,37 @@
+CS
+n:fm
+n - pozicijos
+m - pozicijos po kablelio
+8:f - ðimtøjø tikslumu
+
+
+n:d - Sveikasis skaièius
+
+8:d - 8 pozicijos, sveikasis
+
+
+Referense tipo kintamasis kuriamas:
+1) iðsaugoma nuoroda(sukuriamas)
+2) new vieta(padedama)
+
+Class{
+
+	Constructor;
+	Constructor with parameter;
+}
+
+klasëje tik private, metodai public;
+
+Metodai:
+1) constructorius;
+2) Reference;
+3) Skaièiavimo;
+
+
+Kita ketvirtadieni trumpas atsiskaitymas is 3 klausimu 15 min, atasakymai P1, P2,T2, T3
+
+3 Testines duonos *
+Duonos kepaliuku kiekis;
+Ploto skaiciavimas;
+Setinam trans;
+Skaiciuojame kiek kartu vaziuos; 

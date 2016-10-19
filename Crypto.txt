@@ -1,0 +1,7 @@
+Elipsinë lygtis:
+
+y^2 = ax^3 + bx^2 + cx + d;
+
+EC = {(x, y)} = {e = (x,y)} - tenkinanèiø lygtá;
+f = + : EC x EC -> EC;
+	e1 + e2 = e3 (= EC

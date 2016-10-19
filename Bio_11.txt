@@ -1,0 +1,200 @@
+2. Gyvøjø organizmø cheminë sudëtis
+
+	Vandens molekulë polinë -> Vandeniliniai ryðiai
+	Polinës medþiagos gerai tirpsta vandenyje(hidrofilinës).
+	C - H molekulës bekrûvës(stabilios) todël prastai tirpsta vandenyje - hidrofobinës.
+	Ðlapalas - Karbamidas(baltymø skaidymo produktas)
+	Hidrolizës reakcijos - vanduo skaidomas kovalentiniais ryðiais
+	Prisijungiant vandená daugëlis daugiatomiø medþiagø skyla(Baltymai -> Aminorûgðtys)
+	Vandens temperatûrai pakelti reikia sudaryti vandenilinius ryðius. Vanduo tankiausias 4C.
+	Buferiai - palaiko pH
+	Azoto yra baltymuose, nukleorûgðtyse
+	Kalcis svarbus skaiduloms, nervinio impulso sklidimui.
+	Magnis - chlorofilo sudedamoji dalis.
+	Cl- reikalingas druskos rûgðèiai skrandyje.
+	Selenas organizmà apsaugo nuo laivøjø radikalø. 
+	Manganas svarbus fotosintezei, skaidant vandená.
+	
+2.2 Angliavandeniai
+
+	Vëþiagyviø apvalkalas - chitinas,
+	bakterijø sienelë - peptidoglikano,
+	skaidant angliavandenius iðskyriama energija naudojama ATP sintezei.
+	
+	Monosacharidai - 
+	lengvai tirpsta vandenyje. Skirstomi á aldozes(aldehido grupë){gliukozë, manozë, galaktozë} ir ketozes(ketono grupë){fruktozë};
+	Tetriozës, tetrozës, pentozës, heksozës, heptozës.
+	
+
+	Disacharidai -
+	du monosacharidai sujungti gliukozidiniu ryðiu(maltozë, laktozë, sacharozë):
+
+	Maltozë - sudaro dvi gliukozës molekulës sujungtos a-(1 -> 4)-glikozidiniu ryðiu. Gaunama hidrolizuojant krakmolà amilaze.
+	Laktozë - hidrolizuojant susidaro galaktozë ir gliukozë. Laktozës hidrolizæ katalizuoja laktazë.
+	Sacharozë - susidaro susijungus gliukozei ir fruktozei. Sacharozës hidrolizæ katalizuoja sacharazë. Sintetinama fotosintezës metu. 
+
+	Polisacharidai -
+	makromolekulës, sudarytos ið monosacharidø sujungtø glikozidiniais ryðiais(krakmolas, celiuliozë, glikogenas, chitinas)
+	Krakmolas ir glikogenas - atsarginës medþiagos, netirpios vandenyje. Gliukozë, chitinas - bakterijø sienelës.
+	Krakmolas - amilozës ir amilopektino miðinys.
+	
+	Amilozë - linijinis polisacharidas.
+
+
+
+	Plastidëse augalai saugo krakmolà, gyvûnai gliukozæ saugo glikogeno molekulëse(yra daug kepenyse ir raumenyse).
+	Energines medþiagas organizmas kaupia polisacharidø pavidalu, monosacharidai didintø osmosiná slëgá.
+	Dauguma grybø celiuliazæ iðskiria á aplinkà, todël gali augti ant medþiø.
+	Chitinui kietumo suteikia kalcio karbonato druskos.
+	Glikoproteinai - baltymai prie kuriø kovalentiðkai prisijungæ angliavandeniai(kraujo plazmos baltymai, hormonai, receptoriai, pernaðos baltymai, imunoglobalinai).
+	Prie eritrocitø membranose esanèiø baltymø ar lipidø prisijungæ angliavandeniai lemia þmogaus kraujo grupæ.
+	
+	Glikolipidai - angliavandeniø ir lipidø junginiai.
+	Peptidoglikanas - sudaro bakterijø, dumbiø sieneles.
+	Lizocimas - katalizuoja peptidoglikano hidrolizæ, ardo sieneles.
+	Penicilinas - neleidþia susidaryti peptidoglikanui, bakterijos þûsta. Iðsivystë bakterijos kurios sintetina penicilazæ, kuri suardo penicilinà.
+		
+
+2.3 Baltymai-
+
+	didelës molekulinës masës polimerinës organinës medþiagos, aminorûgðtys sujungtos peptidiniu ryðiu.
+	
+	Funkcijos:
+	Katalazinë - fermentai katalizuoja reakcijas, pepsinas(skrandþio sultys) ir tripsinas(þarnynas) iki aminorûgðèiø. Riebalus hidrolizuoja lipazës, angliavandenius - amilazës, sacharazës, maltazës ir t.t
+	Pernaðos - nuo elektronø iki makromolekuliø. Hemoglobinas perneða O2 CO2. Þmogaus kraujo serumo albuminas kraujyje perneða riebalø rûgðtis. Baltymai neðikliai ir kanalai pro membranas perneða jonus, aminorûgðtis, angliavandenius, baltymus ir t.t
+	Struktûrinë - su lipidais sudaro membranas. Main jungiamojo audinio baltymas - kolagenas.
+	Apsauginë - antikûnai jungiasi su antigenais, apsaugo làstelæ nuo bakterijø, ðalutiniø baltymø.
+	Judëjimo - raumenys sudaryti ið baltymo aktino ir miozino, paverèia cheminæ energijà mechanine.
+	Energinë
+	Hormoninë - reguliuoja medþiagø apykaità.
+	Toksinë - kai kurie toksinai yra baltymai.
+	Infekcinë
+	Receptorinë - baltymai receptoriai sàveikauja su hormonais, ðviesa, kvapais ir t.t ir perduoda signalà.
+	Atsarginë - kaupiamas kazeinas
+	Transportinë - gali prisijungti ir perneðti medþiagas
+	
+	Sudëtis:
+
+	Rûgðtimis ir peptidazëmis hidrolizuojami baltymai skyla iki aminorûgðèiø.
+	Aminorûgðtis - prie C atomo prijungta karboksigrupë(-COOH), aminogrupë(-NH2). Aminorûgðtys skiriasi ðoninëmis grupëmis (R), sudëtyje gali bûti -COOH, -NH2, -SH, -OH ir kitø grupiø.
+	Features: krûvis, dydis, tirpumas vandenyje.
+	Main formula: 
+		
+		COOH
+		|
+	    NH2-C-H
+		|
+		R
+
+	Aminorûgðtys - hidrofobinës ir hidrofilinës. Aminorûgðtys neutraliame tirpale yra dipoliai. COOH <-> -COO + H+, aminogrupë prisijungusi protonà: -NH2 + H+ <-> -NH3+
+	Sudëtiniai baltymai - prie baltymø polipeptidinës grandinës gali bûti prisijungusios nukleorûgðtys, angliavandeniai, lipidai, metalo jonai ir t.t
+
+	Struktûra:
+	
+	Pirminë - seka grandinëje. Stabilizuoja peptidiniai ryðiai.
+		aminorûgðties karboksigrupë susijungia su kitos rûgðties aminogrupe - peptidinis ryðys(-CO-NH-)
+		50<= baltymai, priklauso nuo sekos.
+
+	Antrinë - polipeptidinë grandinë susisuka á alpha spiralæ arba sudaro beta struktûrà. Stabilizuoja peptidiniai ryðiai(tarp C ir N).
+		Anglies atomai iðsidësto cilindro forma, peptidiniø grupiø karbonilgrupës deguonis ir iminogrupës(-NH) vandenilis sudaro vandenilinius ryðius. Vandenilinis ryðys stabilizuoja alpha spiralæ, susidaro su kas 4 aminorûgðtimi. Cilindre á iðoræ nukreiptos ðoninës grupës
+		Beta struktûra - iðtempta polipeptidinë grandinë(beta juosta). Beta struktûra gali suformuoti statinës formos dariná(porinai) iðorinës bakterijø, mitochondrijø membranos. Viduje susidaro hidrofilinis kanalas(pora).
+
+	Tretinë - antrinës struktûros elementai iðsidësto erdvëje sàveikaujant ðoninëms grupëms. 3D struktûra.
+		Susidaro sàveikaujant ðoninëms grupëms, sudaro alpha spiraliniai segmentai ir beta juostos. Jungia spiraliø neturinèios polipeptidinës grandinës atkarpos - kilpos.
+		Nulemia baltymø funkcijas. Formuojantis aktyviajam centrui, aminorûgðèiø ðoninës grupës, suartëja ir dalyvauja katalizëje. 
+	
+	Ketvirtinë - sudaro kelios nekovalentiniais ryðiais susijungusios polipeptidinës grandinës(subvienetai).(hemaglobinas)
+		Kiekvienas subvienetas turi hemà prie kurio jungiasi O2.
+	
+
+	Tretinæ struktûrà palaiko aminorûgðèiø ðoniniø grupiø ryðiai(silpni nekovalentiniai ryðiai), suyra pakitus sàlygoms.
+	Antrinës, tretinës struktûros suardymas - denatûravimas. Verdant baltymai denatûruoja, taèiau polipeptidinë grandinë nesuyra.
+
+	Ðaperonai - padeda susidaryti teisingai struktûrai.
+	
+
+	Fibriliniai baltymai - lygiagreèiai iðsidësèiusios polipeptidinës grandinës. Atsparûs deformacijai, netirpûs vandenyje(Kolagenas - jungiamojo audinio baltymas(oda, kremzlës, sausgyslës, kaulai, kraujagyslës sudaro 25% þinduoliø baltymø) stabilizuoja vitaminas C).
+	Globuliniai baltymai - tirpûs H2O dalyvauja medþiagø apykaitoje(fermentai, antikûnai, hormonai).
+	Fibrinas - kraujo kreðëjimas, apsauginë funkcija.
+
+	Proteoliziniø sistemø funkcijos:
+	- atpaþinti ir suardyti baltymus, kurie nesudaro taisyklingø struktûrø.
+	- suardyti genetiðkai paþeistus baltymus.
+	- suardyti pasenusius baltymus.
+	Paþeisti baltymai paþymimi prisijungus nedidelá baltymà ubikvitinà.
+	Paþymëtà baltymà suskaido baltymø kompleksas - proteasoma.
+
+	Peptidinis ryðys vienos aminorûgðties karboksigrupæ jungia su kitos aminogrupe
+
+	Disacharidai gaunami kondencuojant 2 gliukozes
+	//Micelës
+
+	Fermentai:	
+	Seiliø amilazë, pepsinas, maltazë, ribonukleoazë.
+	Inhibitoriai stabdo reakcijas kai jos pasiekia reikia 
+	Kofermentas - fermentø aktyvumo padidinimas(vitaminai) NAD FAD
+	Kofaktoriai - neorganinës kilmës fermento dalys.
+	
+	Savybës: specifiðki, fermentai nëra sunaudojami, fermentai su substratu sudaro fermento substrato kompleksà, fermentus veikia temp. pH pokyèiai, daugëlis fermentø veikia dalyvaujant kofaktoriams, su substratu tiesiogiai jungiasi tik tam tikra fermento dalis, vadinama aktyviuoju centru.
+	
+
+2.4 Lipidai - sudaryti ið glicerolio ir riebalø rûgðèiø. nepolinës, vandenyje blogai tirpios, tirpios organiniuose tirpikliuose - etanolyje, eteryje.
+
+	Funkcijos:
+	
+	-Struktûrinë - fosfolipidai ir glikolipidai, susijungæ su baltymais, sudaro membranas.(Cholesterolis)
+	-Energetinë - 1g -> 38kj
+	-Apsauginë
+	-Reguliacinë - Vitaminas D, lytiniai hormononai(estrogenas, testosteronas)
+	
+	Glicerolis - alkoholis, ið 3 C, prie kuriø prisijungusios 3 hidroksigrupës.
+	Riebalø rûgðtys turi 16-18 C atomø, viename gale yra karboksigrupë, prie kurios prisijungia C grandinë. Suteikia hidrofobiniø savybiø.
+	
+	Riebalø rûgðtys kurios turi 1 ar kelis dvigubus ryðius - nesoèiosios.
+	Riebalø rûgðèiø karboksigrupë susijungia su glicerolio hidroksigrupe susidaro esterinis ryðys. Todël vadinami trigliceridais(nepolinës, hidrofobinës) - veiksminga saugojimo forma
+	Riebalø oksidacijos energijà augalai naudoja dygdami.
+
+	Fosfolipidai:
+	glicerolis + 2 x riebalø rûgðèiø liekanos, prie treèiosios hidroksigrupës prisijungusi fosforo rûgðties liekana, turinti neigiamà krûvá.
+	polinës(hidrofilinës) galvutës
+
+	Nesimaiðo aliejus vandenyje, nes neturi laisvøjø poliniø grupiø.	
+
+	Steroidai - 4 susijungæ þiedai. Skiriasi funkcinëmis grupëmis, prisijungusiomis prie þiedø. Sudaro polinë -OH grupë ir nedidelë nepolinë dalis.
+	
+	
+	
+
+
+2.5 Nukleorûgðtys - 
+
+	DNR:				RNR:							ATP(nukleotidas)
+cukrus: Deoksiribozë			ribozë							ribozë
+azot.b:	A,T,G,C				A,U,G,C							A
+fosr.liek: 
+	Dvivijë				Vinevijë						Vienvijë
+	Saugo paveldimà info		Per baltymø sintezæ realizuoja paveldimà info
+	
+	ATP - nukleotidas
+
+	iRNR(mRNR)-informacinë.
+	rRNR - ribosomø RNR.
+	tRNR - citoplazmoje, perneðti, sintetinti
+
+	Purino bazës: A ir G;
+	Pirimidino bazës: C, T, U;
+
+	ATP + H2O -> ADP + P + Energ.
+
+	G, A - didesni
+
+
+Bandymas:
+	1)Hipotezë: katalazës veikimas greitëja didëjant pavirðèiaus plotui
+	2)Tikslas: iðtirti
+	3)Apraðymas:
+	4)Iðvada:
+
+3. Biologinës membranos-
+	
+	

@@ -1,0 +1,177 @@
+1. 	Covalent bond- sharing electrons
+	Non-polar Covalent bond - Negative + Negative
+	Polar Covalent bond - (+) (-) H2O
+	Ionic bonds - dont share electrons, donate or accept electrons, live as a charged atom or ion. //apsikeicia elektronais
+	Hydrogen bond - sticking molecules as H2O
+
+2. 	Cohesion - attracktion between two different things
+	Adhesion - dis-attraction between two things
+	Capillary Action - 
+	Solvent - H2O best. 
+
+	Hydrophilic - polar substance, H2O bonds around them, disolving
+	Hydrophobic - non-polar, not-solvant
+
+
+3.	Carboohydrates - 
+		Monosaccharides - sugars, fructose, glucos.
+		Disaccharides - sucrose,
+		Polysaccharides - cellulose.
+		Glycogen - short term storage.
+
+ 
+	Lipids - Glycerol, Fatty Acid(carboxil group)
+	Glycerol + 3 Fatty Acids = Trigliceride.
+	Glycerol + 2 Fatty Acids + Phosphate Group = Phospholipid
+	Virðus Polar - Hydrophilic, apaèia non polar - Hydrophobic.
+	Steroids - Cholesterol, hormones.
+
+
+
+	Proteins - 
+		Amino Acid = Carboxyl Group(-COOH) + Amino Group(-NH2) + C + H + R(ðoninë grupë)
+		Aminon Chains forms Polypeptides
+
+	Nucleic Acids 
+
+4.	Eukaryots
+Endoplaasmic Reticulum:
+
+	Rough ER - carry stuff, rybosomes;
+	Smooth - factory, enzymes, cell detox(adding carboxil group), stores ions;
+	Rybosomes - made in nuclear envelope, amino acids -> polipeptides
+	Golgi Aparatus - protein packing, packaging, send out
+	Lysosome - cell digestion, enzyme sacks, cell waste -> building material
+	Nucleus - stores the cell's DNA
+	Chromatin - holds DNA, Cell division
+	Nucleolus - makes rRNR, mRNR -> ribosomes
+	Mitochondria - respiration, ATP
+	
+5.	Membranes & Transport
+	
+	Passive 
+
+	Active
+
+	Hypertonic - higher inside than outside
+	Hypotonic - lower inside cell
+	Isotonic - same concentration inside/outside	
+	
+	Kidneys - regulate blood plasma to be isotonic
+
+	Active transportation - need to move against the conventration, requires ATP/Adenosine Tri-phosphate
+	Sodium - Potassium pump. Electrochemical gradient(positive outside, negative inside)
+	ATP - 3 Phospate groups. Enzyme brakes one Phosphate which release an energy
+	Activated output 3 NA+ ions, input 2 K+ Ions
+	
+	Vesicles - pûslelës perneða medþiagas egzo and endo
+	
+6. 	Plant Cells (formed 500 mil years ago)
+	Eukaryotics - have nucleus separated by nucleus membrane, have organels
+	Prokaryotics - 
+	
+
+7.	ATP - adenosine Triphosphate
+	
+	Glucose: C6H12O6
+	C6H12O6 + 6O2 = 6CO2 + 6H20 + E
+	
+	ATP = Adenine + Ribose + 3Phosphate group
+	ADP = Adenine + Ribose + 2Phosphate group + E
+	Join OH- and beacome happy it's called Hydrolisis.
+	
+	Celluar respiration(glucose transformed to ATP):
+	1) Glycolysis - braking down glucose. Glucose - 3 Carbon Mol Pyruvic Acids. Needs energy 2 ATP, makes 4 ATP + 2 NADH, happens in cytoplasm (anaerobic)
+	2) The Krebs Cycle - happens in mitochondria, uses Pyruvate Molecules to create 2 ATP per Glucose + E . Pyruvates are oxydised, creates 2 NADH(aerobic, needs O2)
+	3) Electron Transport Chain - (aerobic, needs O2) 34 ATP !!!
+	SUM - 38ATP
+	NAD+, FAD - enzymes, pick up Hydrogen.
+
+8.	Photosynthesis
+	
+	Chloroplast -> Thylakoid(stores chlorophyll) -> Grana
+
+	Light dependent - 1) photon hits chlorophyll(photoexcitation), 2) Electron transfer chain, mobile electron carrier care off electron of chlorophyll, splits H20 takes 1 electron -> H+ + O2, PS2
+	Light independent(Calvin reaction) - Starts in Stroma - carbon fixation, gains unstability -> 3-phosphoglycerate, 2) reduction 2 molecules of glyceraldehyde 3-phosphate G3P, 3) Regeneration
+	RuBisCo - enzyme to divide CO2
+
+9. 	Heredity
+
+	Somatic - diploid(not realated to sex)
+	Gametes - haploid
+	Polyploids - several sets of chromosomes
+
+	Phenotype - physical features
+
+10.	DNA Structure and Replication
+
+	Nucleotides - 5- Carbon Sugar molecule(deoxyribose) + Phosphate group + 1 of 4 Nitrogen Bases
+	
+	RNA - single strand, sugar is ribose one more oxygenm, uracil(not thymine)
+
+	Replication - helicase(break Nitrogen bonds bases), 
+	
+	5' 3' - 3' 5'
+
+11. DNA Transcription & Translation
+
+	Transcription 
+	Translation
+	
+	Trascription Unit - 
+
+	Promoter:
+	Transcription-
+	Upstream - [5' --> 3'] , Downstream - [3' --> 5']
+	(Viskas vyksta branduolyje)
+	DNR polimerazë eina per DNR ir kopijuoja DNR downstream á massenger RNR mRNR, sudaroma RNR grandinë 5' --> 3' ir uþdaroma 5'CAP ir ið 3' Poly-a Tail (apsaugos)
+	
+	Translation-
+	Ribosomes - mix of protein and rRNR, mRNR get fed in, Has binding sites
+	Transfer RNR (tRNR) - translate from Nucleotide - Amino Acids. Viename gale Amino rugðtis, kitame 3 azotinës bazës
+	mRNR bëga per ribosmà, ribosomà gali perskaityti 3 bitus per kartà(triplet codon), ribosoma randa atitinkama tRNR dalá ir prijungia, kitame gale pagal codà jungiamos atitinkamos amino rûgðtys ir perkeliamos ant kito tRNR, taip suformmuojamas polipeptide.
+
+	Folding -
+	
+	Primary - Sequence
+	Secondary - Sheets and Spirals
+	Teritiary - R Group Bonds
+	Quaternary - Multiple Proteins
+
+12.	Mitosis - 
+	
+	Somatic - 23 pairs - 46 chromosomes - Diploid cells.
+	
+	Prophase, Metaphase, Anaphase, Telophase.
+	
+	Interphase - mess in chromatin, centrosome duplicate, DNA starts to duplicate
+	Prophase - chromatids get out - chromosomes form, start of microtubules.
+	Metaphase - motor proteins start moving chromatids, chromosomes line up
+	Anaphase - motor proteins pull off to the sides
+	Telophase - forming of membrane, final split
+	Cytokinesis - movement of cells separation
+
+13.	Meiosis -
+	
+	Haploid describes a cell that contains a single set of chromosomes. The term haploid can also refer to the number of chromosomes in egg or sperm cells, which are also called gametes. In humans, gametes are haploid cells that contain 23 chromosomes, each of which a one of a chromosome pair that exists in diplod cells
+	
+	Crossover - 
+	Homologous Recombination -
+	
+	Metaphase 1 - iðsirikiuoja á eilæ, bet su Homologine pora
+	Anaphase 1 - atskiriamos
+	Telophase 1 - susiformuoja nucleus membrana
+
+	Repeat Metaphase 2, Anaphase 2, Telophase 2
+	
+	Susidaro 3 polar bodies, egg - didþiausia, daugiausiai citoplazmos turinti làstelë
+
+14.	Natural Selection -
+	
+15. 	
+	Post-Zigotic
+	Pre-Zigotic
+	Allopatric Speciation - georaphical separation
+	Sympatric Speciation - same country separation
+	
+	Duok ausá kiekvienam, ne þodá
