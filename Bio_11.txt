@@ -160,13 +160,35 @@
 
 	Nesimaiðo aliejus vandenyje, nes neturi laisvøjø poliniø grupiø.	
 
+	Vaðkai - ilgà atomø grandinæ turintis alkoholia ir riebalø rûgðtis. apsauginë danga.
+
 	Steroidai - 4 susijungæ þiedai. Skiriasi funkcinëmis grupëmis, prisijungusiomis prie þiedø. Sudaro polinë -OH grupë ir nedidelë nepolinë dalis.
+	Sankaupos kraujagyslëse sukelia aterosklerozæ.
+	Ið cholesterolio kepenyse -> tulþies rûðtys, lytinëse làstelëse/liaukose -> steroidiniai hormonai.
+	Androgenai - vyriðkiejá hormonai (Testosteronas).
+	Moteriðkis - estrogenus ir gestagenus(Estradiolis, Progesteronas).
 	
+	Lipiduose tirpûs vitaminai - A, D, E, K
+	
+	A- dauguma augalø sintetina karotenoidus, ðviesà sugerianèius pigmentus, veikiami fermentø gyvûnuose skyla á vit A. A Susijungia su baltymu opsinu, sudaranèiu rodopsinà - akies tinklainës pigmentà, sugeriantá ðviesà.
+	D- priklauso Ca pernaða þarnyne, kepenyse, inkstuose. Palaiko Ca Phosphatø reguliacija kauluose.
+	E- neutralizuoja aktyvøjá deguoná, apsaugo baltymus ir nesoèiàsias riebalø rûgðtis nuo oksidacijos.
+	K- sintetina þarnyno bakterijos, aktyvina baltymus, reikalingus kraujui kreðëti.
+
+	Prostaglandinai
+	Sintetinami ið arachidono riebalø rûgðties beveik visose làstelëse. Reguliuoja uþdegiminius procesus, kraujo kreðumà, sutraukia arba atpalaiduoja lygiuosius raumenis, maþina kraujospûdá, skrandþio sulèiø iðsiskyrimà.
+	Prostaglandinø sintezæ stabdo: aspirinas, ibuprofenas slopinà vienà ið prostaglandinø sintezës fermentø ir maþina temperatûrà.
+
+
 	
 	
 
 
 2.5 Nukleorûgðtys - 
+
+	RNR funkcija DNR info paversti aminorûgðèiø seka baltymuose.
+
+	Nukleotidà sudaro: N bazë, pentozë(C5), fosforo rûgðties liekana. Nukleozidas - N bazës ir pentozës junginys.
 
 	DNR:				RNR:							ATP(nukleotidas)
 cukrus: Deoksiribozë			ribozë							ribozë
@@ -177,24 +199,104 @@ fosr.liek:
 	
 	ATP - nukleotidas
 
-	iRNR(mRNR)-informacinë.
-	rRNR - ribosomø RNR.
-	tRNR - citoplazmoje, perneðti, sintetinti
 
-	Purino bazës: A ir G;
+	iRNR(mRNR)-informacinë - perneða DNR info ir koduoja aminorûgðèiø sekà baltymo molekulëje. 
+	Informacija apie aminorûgðèiø sekà polipeptidinëje grandinëje uþraðoma iRNR polinukleotidinës grandinës baziø sekoje ir vykstant transliacijai(baltymø biosintezei) perduodama polipeptidinës grandinës aminorûgðèiø sekai. iRNR sintetinama vykstant transkripcijai.
+	
+	rRNR - ribosomø RNR - bûdingas katalizinis aktyvumas, vadinamos ribozimais, susijungia su baltymais, katalizuoja peptidinio ryðio susidarymà.
+	
+	tRNR - citoplazmoje, perneðti, sintetinti - prisijungia tam tikrà aminorûgðtá ir jà atneða á ribosomas, kur aminorûgðtis susijungia á polipeptidinæ grandinæ.
+	Visø tRNR 3' gale yra CCA seka, prie kurios prijungiama aminorûgðtis. Molekulës viduryje antikodonas - trys nukleotidai, kurie komplementariai susijungia su trimis iRNR nukleotidais, vadinami kodonu.
+	
+	miRNR - padeda reguliuoti genø raiðkà.
+
+	
+	Purino bazës: A ir G; (didesni)
 	Pirimidino bazës: C, T, U;
+
+	Purinai ir Pirimidinai skiriasi funkcinëmis grupëmis, kuriomis prisijungia prie þiedø.
+	Kai prie adenino prisijungia ribozë, susidaro adenozinas.
+	Nukleorûgðtys turi skirtingas pentozes:
+	DNR deoksiribozë H+, RNR ribozë OH-.
+	U nuo T - timinas turi metil grupæ
+
+	Prie adenozino prisijungus 3 fosforo rûgðties liekanoms, susidaro adenozino 5'-trifosfatas - ATP.
 
 	ATP + H2O -> ADP + P + Energ.
 
 	G, A - didesni
 
-
-Bandymas:
-	1)Hipotezë: katalazës veikimas greitëja didëjant pavirðèiaus plotui
-	2)Tikslas: iðtirti
-	3)Apraðymas:
-	4)Iðvada:
-
-3. Biologinës membranos-
+	Nukleorûgðèiø lygmenys:
+	1) nukleotidø iðsidëstymo seka polinukleotidinëje grandinëje.
+	2) polinukleotidinës grandinës, susijungusios vandeniliniais ir hidrofobiniais ryðiais, sudaro spiralæ.
+	3) antrinës iðsidëstymas erdvëje, superspiralë(erdvinë aðtuoniukë).
 	
+	Eukariotø làstelëse DNR susijungia su baltymais ir sudaro chromosomas.
+
+	Prokariotø genomas sutelktas vienoje, daþniausiai þiedinëje, dvigrandinëje DNR molekulëje. Mitochondrijø, chloroplastø DNR taip pat þiedinë.
+
+	Spiralës þingsnyje telpa 10 bp
+	adeninas su timinu sudaro 2, guaninas su citozinu tris vandenilinius ryðius.
+	
+	Histonai - baltymai su kuriais jungiasi DNR. Turi daug baziniø lizino ir arginino aminorûgðèiø, kuriø teigiami krûviai sudaro joninius ryðius su neigiamomis polinukleotidinës grandinës fosfato molekulëmis.
+	
+	Elektroforezë - 
+	ákrautos molekulës juda elektriniame lauke. Baltymai - krûvá turinèios ðoninës grupës. Nukleorûgðtys - COO-, NH3-, PO3 2-.
+
+
+3.1 Biologinës membranos-
+	
+	Turi: branduolys, mitochondrijos, chloroplastai, lizosomos, endoplazminis tinklas, goldþio kompleksas.
+
+	Funkcijos:
+	1) Uþtvara
+	2) Pralaidumas
+	3) Energijos konvertacija
+	4) Nervinio impulso sklidimas
+
+	Fosfolipidas - polinë grupë -> fosfatas -> glicerolis -> 2 riebalø rûgðtys
+	Cholesterolis - hidrofilinë hidroksi gruopë ir didelæ hidrofobinæ dalá. Reaguliuoja membranos laidumà.
+
+	Membraniniai baltymai - 
+	1) pavirðiniai -  lengva paðalinti su pH, druskos koncentracija, 
+	2) integralieji - perveria, ið hidrofobiniø aminorûgðèiø, susisuka á a ir b.
+	
+	Bakteriorodopsinas - baltymas. Yra bakterijose, sûriame vandenyje. Saulës ðviesos energijà naudoja H+ jonams perneðti pro bakterijø membranà. Baltymo molekulës aminorûgðèiø polinës
+	ðoninës grandinës sudaro kanalà, kuriuo pro membranà perneðami protonai.
+	Bakterijø, mitochondrijø iðorinës membranos baltymai porinai membranoje sudaro poras arba kanalus. Jie membranà perveria beta juostomis, kuriø ðonai susijungia H ryðiais ir sudaro uþdarà
+	H2O pripildytà statinæ, pro kurià pereina jonai ir kitos nedidelës molekulës.
+
+	Membranø angliavandeniai - glikoproteinai, prie lipidø - glikolipidai.
+	- Iðsidësèiusios iðorinëje membranos pusëje, yra receptoriuose. Padeda làstelëms atpaþinti vienai kità, prie jungiasi medþiagos. Lemia þmogaus kraujo grupæ
+
+	Biologiniø membranø struktûra - 
+	ðoninë difuzija - lipidø, baltymø judrumas.
+
+3.2 Medþiagø pernaða pro biologines membranas
+
+	Fosfolipidø dvisluoksnis, kuris nelaidus daugumai hidrofiliniø medþiagø, praeina lipiduose tirpios hidrofobinës medþiagos(steroidiniai hormonai, lipiduose tirpûs vit), dujos, H2O, etanolis, karbamidas, glicerolis.
+	Ðios medþiagos tirpsta fosfolipidø dvisluoksnyje ir prasiskverbia pro membranà ið didesnës koncentracijos á maþesnæ.
+	Palengvintoji difuzija - likusiø(didesniø molekuliø) medþiagø pernaða pagal koncentracijos gradientà, bûtinas baltymas, pasyvioji pernaða.
+	Aktyvioji - perneðama prieð koncentracijos gradientà, reikia energijos ir pernaðos baltymo.
+	Mentë - pagal átampà darinëja
+	
+
+	Pernaðos baltymai:
+	1) neðikliai - integralieji baltymai, prisijungia, pakitus struktûrai atpalaiduojama.
+	2) kanalai - integralieji baltymai.
+	
+	Hipertoninis - iðorëja konc didesnë,
+	Hipotoninis - iðorëja konc maþesnë.
+
+	Puslelës-
+	endocitozë, 
+	pinocitozë - skysèio átraukimas,
+	fagocitozë - organizmo átraukimas,
+	egzocitozë
+
+	Biologinës membranos yra skystos - kietumas priklauso nuo fosfolipidø ir riebalø rûgðèiø sudëties.
+	
+
+
+4. Medþiagø ir energijos apykaita làstelëje
 	
