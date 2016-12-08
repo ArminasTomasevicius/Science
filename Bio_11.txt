@@ -1,4 +1,4 @@
-2. Gyvųjų organizmų cheminė sudėtis
+﻿2. Gyvųjų organizmų cheminė sudėtis
 
 	Vandens molekulė polinė -> Vandeniliniai ryšiai
 	Polinės medžiagos gerai tirpsta vandenyje(hidrofilinės).
@@ -285,8 +285,8 @@ fosr.liek:
 	1) nešikliai - integralieji baltymai, prisijungia, pakitus struktūrai atpalaiduojama.
 	2) kanalai - integralieji baltymai.
 	
-	Hipertoninis - išorėja konc didesnė,
-	Hipotoninis - išorėja konc mažesnė.
+	Hipertoninis - išorėja konc didesnė, plazmolizė.
+	Hipotoninis - išorėja konc mažesnė(distiliuotas H2O), lizė, turgotas.
 
 	Puslelės-
 	endocitozė, 
@@ -300,3 +300,128 @@ fosr.liek:
 
 4. Medžiagų ir energijos apykaita ląstelėje
 	
+	Pasyvi pernaša:
+	Difuzija - konc. gradientas, iš didesnio į mažesnį
+	Osmosas - H2O difuzija, iš mažesnio į didesnę. Storosios žarnos sugertis.
+	Palengvintoji difuzija - reikia kanalinio baltymo
+
+	
+	Aktyvioji pernaša:
+	Egzocitozė - 
+	Endocitozė - 
+	Receptorinė endocitozė - 
+	Pinocitozė - 
+
+
+Fotosintezė ir viduląstelinis kvėpavimas:
+
+6CO2 + 6H2O -> C6H12O6 + 6O2
+Chloroplastas - dvimembranis, granos sujungtos. Išorėje stroma(nuo šviesos nepriklausanti - tamsos fazė), granos(nuo šviesos priklausanti fazė).
+
+1 Fazė:
+Reikalinga - Šviesos energija, membrana su chlorofilu - H2O skaidymas -fotolizė, O2 atlieka, H2 reikalingas tamsos fazės metu.
+NADP - nešiklis, jis prisijungia H ir susidaro NADPH
+Pagaminamas mažas kiekis ATP - naudojamas tolimesniems procesams.
+
+2 Fazė(stromoje):
+Kalvino cilkas - fiksuojamas CO2 susidaro RuBp reikalinga angliavandenių sintezei yra atnešamas NADPH, įjungiamas CO2 susidaro CHO. //Pažiūrėti!!!
+
+Transpiracija - leidžia atsivėsinti išleidžiant H2O
+
+Mg - reikalingas sintetinti chlorofilui
+
+Lapo viršuje H2O, apačioje rėtiniai indai, žiotelės apačioje
+
+Chlorofilas - tilakoidų membranoje
+
+Osmosu H2O patenka į šakniaplaukius, susidaro transpiracinė srovė, H2O garavimas pro žioteles
+
+Tam, kad žiotelė atsidarytų reikia didesnio H2O slėgio, užsidaro kai sumažėja H2O slėgis.
+
+K - reikalingas varstomiesiams unitams
+
+Saulės šviesos aktyvuojamas protonų siurblys - įtraukiami kalio jonai su jais H2O
+
+25-30C - stoja fotosintezė po šios temperatūros
+
+Test: 
+1) Asimiliacinis, 
+2) 2 Membranos, granos iš tilakoidų, stroma
+3) Tilakoidų membranoje, stromoje
+4) Chlorofilas a, b, karotenoidai
+5) Jis reikalingas susidaryti chlorofilui
+6) Dažant daleles nustatomas jų krūvis
+7) Angliavandenių susidarymas fotosintezės metu
+8) Reikalingos membranos kuriose sažadinamas H+
+9) Sužadinami elektronai H+ prisijungia prie nešiklio NADP, vandens fotolizė
+10) Susiformuoja NADPH sugeneruojama šiek tiek energijos tolimesniems procesams, susidaro O2
+11) NADP
+12) Nuo CO2 gradiento, NADPH
+13) Sugeneruojami angliavandeniai
+14) Fiksuojamas CO2 sudaromas RuBP - ribuliozėsbifosfatas
+15) Apšvietimo kiekis, apšvietimo kampas, lapų išsidėstymas, CO2 kiekis, H2O kiekis, temperatūra
+16) Taip, nes šiuo būdu sužadinama daugiau H+ suformuojama daugiau NADPH
+17) 25-30C - stoja fotosintezė po šios temperatūros
+18) Reikalingas palaikyti turgorinį slėgį, vykdyti fotosintezei, atsivėsinti, mineralinių medžiagų judėjimas
+19) Azotas - fiksuojamas tamsos fazės metu, NADP, Nukleorūgštims, baltymams, fosforas - fosfolipidinia
+20) Gaminami angliavandeniai, šalinamas O2, sunaudojamas CO2
+
+
+Viduląstelinis kvėpavimas:
+
+Matriksas viduje kristų, DNR žiedinė, matrikse ribosomos.
+
+Gliukozės skaidymas -> Glikolizė, citozolyje 2ATP, piruvatas -> -O2(anaerobinis) rūgimas -> alkocholinis rūgimas(mielė), 2ATP, CO2 || pienorūgštinis(laktato rūgštis)(gyvūnai), 2ATP, CO2
+								or -> +O2
+
+Pereinamoji reakcija - nesusidaro ATP, jungia gliukolize su procesu vykstančiu viduje mitochondrijos.
+Krebso ciklas - cikliškai vykstančių reakciju grandinė, rezultatas 2ATP.
+
+Membranoje vyksta - elektronų pernaša, susidaro 32-34 ATP
+
+
+Medžiagų apykaita ir pernaša:
+
+Vystydamiesi gyvūnai didėjo, jų paviršiaus plotas palyginti su tūriu, mažėjo. Todėl atsirado poreikis kvėpavimo organams.
+
+Žiaunos -> žiaunų lankai -> žiaunų lapeliai -> žiaunų plokštelės
+
+Priešpriešinės srovės principas - žiaunų lapeliais teka vanduo, o kapiliarais priešinga kryptimi kraujas.
+
+Vabzdžiai kvėpuoja trachėjomis. 
+Kvėptukai - angelės kūno šonuose. 
+
+Kvėptukas -> Trachėja -> Tracheolė
+
+Kvėpavimo takai(nosies ertmė, nosiaryklė, gerklos, trachėja, bronchai) -> Broncheolės -> alveolės -> kapiliarai
+
+Apsauginė, ir jutimo funkcija.
+
+Antgerklis - plona lėžuvio formos kremzlė.
+
+Gerklose yra balso aparatas - 2 balso stygos, balso plyšys
+
+Trachėja - priekinę sienelę sudaro raumenimis ir raiščiais sujungti C formos kremzliniai pusžiedžiai. Gleivinė + virpamasis
+epitelis, kuris banguoja ir gaudo ore likusias dulkes.
+
+Alveolių epitelinės ląstelės išskiria biologiškai aktyvias medžiagas, kurios plona plėvele dengia vidinį jų paviršių
+Plėvelė palaiko pastovų alveolių tūrį ir neleidžia joms subliukšti. Jeigu kas nors patenka, fagocitai sunaikina.
+
+Plaučius iš visų pusių dengia lygi blizgi jungiamojo audinio plėvelė - plaučių krutinplėvė, o krutinės ląstos vidų - pasieninė krūtinplėvė.
+Tarp šių krūtinplėvių yra hermetiška, drėgna, beorė krūtinplėvės ertmė, joje apie 20ml krūtinplėvės skysčio, kuris mažina trintį kvėpuojant.
+
+Tarpšonkauliniai raumenys - susitraukdami keičia krūtinės ląstos tūrį. Susitraukdami pakelia šonkaulius ir padeda įkvępti oro, susitraukdami vidiniai tarpšonkauliniai raumenys šonkaulius nuleidžia žemyn ir galima iškvėpti.
+
+///
+Įkvepiant orą, šonkauliai pakyla, diafragma pasidaro plokščia ir nusileidžia žemyn. Krūtinės ertmė ir plaučių tūris padidėja, krūtinplėvė išsitempia, plaučių alveolės išsipučia. Sumažėja oro slėgis plaučiuose.
+///
+Iškvėpiant iš plaučių. Kai išoriniai tarpšonkauliniai ir diafragmons raumenys atsipalaiduoja, o vidiniai tarpšonkauliniai raumenys susitraukia, šonkauliai nusileidžia žemyn ir pasislenka į vidų, diafragma atsipalaiduoja ir pakyla į viršų.
+
+Surfaktantas - alveolės nesulimpa
+
+3,5l gyvybinis plaučių tūris.
+
+Pailgosiose smegenyse yra kvėpavimo centras.
+
+Miego arterijos ir aortos sienelių chemoreceptoriai jautriai reaguoja į anglies dioksido  kraujyje padidėjimą ir kraujo pH pokyčiui.
+Nerviniai impulsai 
